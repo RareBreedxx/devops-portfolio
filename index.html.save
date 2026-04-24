@@ -686,7 +686,7 @@
                         <div class="contact__card">
                             <i class='bx bxl-twitter contact__card-icon'></i>
                             <h3 class="contact__card-title">Twitter</h3>
-                            <span class="contact__card-data">iyalode_flows</span>
+                            <span class="contact__card-data">usertw</span>
 
                             <a href="https://twitter.com/usertw" target="_blank" class="contact__button">
                                 Write Me <i class='bx bx-right-arrow contact__button-icon'></i>
@@ -752,7 +752,7 @@
 
             <ul class="footer__social">
                 <li class="footer__social-item">
-                    <a href="https://github.com/rarebreedxx" target="_blank" class="footer__social-link">
+                    <a href="https://github.com/liberace1" target="_blank" class="footer__social-link">
                         <i class='bx bxl-github footer__social-icon'></i>
                     </a>
                 </li>
@@ -762,12 +762,12 @@
                     </a>
                 </li>
                 <li class="footer__social-item">
-                    <a href="https://linkedin.com/in/yinka-fadoju" target="_blank" class="footer__social-link">
+                    <a href="https://linkedin.com/in/owoloye" target="_blank" class="footer__social-link">
                         <i class='bx bxl-linkedin footer__social-icon'></i>
                     </a>
                 </li>
                 <li class="footer__social-item">
-                    <a href="https://instagram.com/iyalodeofficial" target="_blank" class="footer__social-link">
+                    <a href="https://instagram.com/1seakay" target="_blank" class="footer__social-link">
                         <i class='bx bxl-instagram footer__social-icon'></i>
                     </a>
                 </li>
