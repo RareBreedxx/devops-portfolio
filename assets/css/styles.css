@@ -247,10 +247,10 @@ img {
 }
 
 .home__social {
-  bottom: 4rem;
-  left: 0;
-  display: grid;
-  row-gap: 0.5rem;
+  position: fixed;
+  left: 1.5rem;
+  top: 35%;
+  z-index: 10;
 }
 
 .home__social-link {
@@ -322,16 +322,17 @@ img {
 
 /*=============== ABOUT ===============*/
 .about__container {
-  row-gap: 2.5rem;
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  align-items: center;
+  column-gap: 3rem;
 }
 
-.about__img {
-  
-  width: 300px;
-  height: 500px;
+.about__img img {
+  width: 100%;
+  height: auto;
+  display: block;
   object-fit: cover;
-  object-position: top;
-  border-radius: 1.5rem;
 }
 
 .about__data {
